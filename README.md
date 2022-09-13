@@ -1,7 +1,6 @@
 [![MasterHead](https://prtflo.000webhostapp.com/img-portofolio/one%20one.jpg)](https://rishavchanda.io)
 <h1 align="center">Hallo,Saya Mochammad Iqbal Roni</h1>
 <h3 align="center">Backend Developer dan Mobile Developer</h3>
-<img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalroni&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalroni" /> </p>
 
