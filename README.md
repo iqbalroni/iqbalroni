@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalroni&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalroni" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iqbalroni" target="blank"><img src="https://img.shields.io/twitter/follow/iqbalroni?logo=twitter&style=for-the-badge" alt="iqbalroni" /></a> </p>
-
-- 🌱 Saya sedang belajar **Laravel,Flutter**
+- 🌱 Saya sedang belajar **Laravel,Flutter,ReactJs**
 
 - 👨‍💻 Semua proyek saya tersedia di [https://prtflo.000webhostapp.com/](https://prtflo.000webhostapp.com/)
 
