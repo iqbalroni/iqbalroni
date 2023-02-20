@@ -4,10 +4,10 @@
 <hr>
 <ul>
   <h3 align="left"><b>Aktivitas Saya</b></h3>
-  <li>🌱 Saya sedang belajar **Laravel,Flutter,ReactJs**</li>
-  <li>⚡ Aktivitas Saya Sekarang **Rebahan,Makan,Ngoding**</li>
-  <li>👨‍💻 Semua proyek saya tersedia di [https://iqbalroni.thecapz.com/](https://iqbalroni.thecapz.com/)</li>
-  <li>📫 Hubungi saya disini **roniesaputra92@gmail.com**</li>
+  <li>🌱 Saya sedang belajar <b>Laravel,Flutter,ReactJs</b></li>
+  <li>⚡ Aktivitas Saya Sekarang <b>Rebahan,Makan,Ngoding</b></li>
+  <li>👨‍💻 Semua proyek saya tersedia di https://iqbalroni.thecapz.com/</li>
+  <li>📫 Hubungi saya disini <b>roniesaputra92@gmail.com</b></li>
 </ul>
 <hr>
 
