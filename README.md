@@ -1,7 +1,11 @@
 <img src="https://i.kym-cdn.com/photos/images/original/000/191/902/a_chance_of_sprinkles_by_thedbp-d4e35wb.gif" width="300" alt="Laravel Logo">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iqbalroni&label=Profile%20views&color=86A789&style=flat" alt="iqbalroni" />
+  <img src="https://www.codewars.com/users/IqbalRoni/badges/small"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh">
+</p>
+
 <h3 align="left"><b>Mochammad Iqbal Roni Saputra</b></h3>
-<img src="https://komarev.com/ghpvc/?username=iqbalroni&label=Profile%20views&color=86A789&style=flat" alt="iqbalroni" />
-<img src="https://www.codewars.com/users/IqbalRoni/badges/small"/>
 <p>Hallo,Saya Iqbal Roni Sebagai Frontend,Backend & Mobile Developer.Frontend dapat menguasai Bootstrap,React JS. Backend biasanya saya menggunakan php dengan framework Laravel Dan untuk membuat aplikasi berbasis android saya terbiasa menggunakan framework Flutter Dan Juga NODE JS</p>
 <img src="https://elliotec.com/images/pusher.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%" />
 <hr>
@@ -11,6 +15,8 @@
   <li>⚡ Aktivitas Saya Sekarang <b>Rebahan,Makan,Ngoding</b></li>
   <li>👨‍💻 Semua proyek saya tersedia di https://iqbalroni.thecapz.com/</li>
   <li>📫 Hubungi saya disini <b>roniesaputra92@gmail.com</b></li>
+  <hr>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqbalroni">
 </ul>
 <hr>
 
