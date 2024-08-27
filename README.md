@@ -22,5 +22,3 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iqbalroni&show_icons=true&locale=en&theme=dark" alt="iqbalroni" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalroni&theme=dark" alt="iqbalroni" />
-
